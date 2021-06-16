@@ -1,0 +1,13 @@
+pluginManagement {
+    repositories {
+        mavenLocal()
+
+        google()
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = "Dependency managment"
+
+include ':app'
+
